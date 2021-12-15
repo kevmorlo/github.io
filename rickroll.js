@@ -1,0 +1,1 @@
+setInterval(function() {var t = document.getElementById(rickroll)}, 10000);
