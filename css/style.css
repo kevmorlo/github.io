@@ -6,9 +6,8 @@
   padding: 0;
 }
 html{
-  background-image: url(https://www.maisondesjournalistes.org/wp-content/uploads/2016/12/carton-fetesMDJ.jpg);
-  background-repeat: no-repeat;
-  background-size:cover;
+  background-image: url(../medias/images/fond-ecran-wallpaper-image-joyeuse-fetes-05.webp);
+  background-size: 100%;
 }
 p{
   font-family: cursive;
